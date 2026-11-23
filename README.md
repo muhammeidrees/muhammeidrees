@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Training+models+that+understand+many+accents;Turning+messy+data+into+useful+predictions;Shipping+ML+from+notebook+to+product" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Learns+in+silence.+Ships+with+intent.;Building+peer-to-peer+resource+sharing;Solving+real+problems+companies+face;ML+%C2%B7+Deep+Learning+%C2%B7+AI+Agents" alt="typing intro"/>
 </p>
 
 <p align="center">

@@ -12,21 +12,17 @@
 
 <p align="center"><sub><b>WHAT I'VE LEARNED</b></sub></p>
 
-<p align="center">
-  <sub>Machine Learning</sub>&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="28"/>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sub>Deep Learning</sub>&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="28"/>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sub>Development</sub>&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi,django&theme=dark" height="28"/>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sub>Cloud</sub>&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker,cloudflare&theme=dark" height="28"/>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sub>System Design</sub>
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="36"/><br><sub>Machine Learning</sub></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="36"/><br><sub>Deep Learning</sub></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=fastapi,django&theme=dark" height="36"/><br><sub>Development</sub></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" height="36"/><br><sub>Cloud</sub></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="36"/><br><sub>System Design</sub></td>
+</tr>
+</table>
+</div>
 
 <br>
 

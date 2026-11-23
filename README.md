@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Learns+in+silence.+Ships+with+intent.;Building+peer-to-peer+resource+sharing;Solving+real+problems+companies+face;ML+%C2%B7+Deep+Learning+%C2%B7+AI+Agents" alt="typing intro"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/muhammeidrees"><img src="https://komarev.com/ghpvc/?username=muhammeidrees&style=flat-square&color=2c5364&label=profile+views" alt="profile views"/></a>
   <a href="https://github.com/muhammeidrees?tab=followers"><img src="https://img.shields.io/github/followers/muhammeidrees?style=flat-square&color=2c5364&label=followers" alt="followers"/></a>
 </p>
